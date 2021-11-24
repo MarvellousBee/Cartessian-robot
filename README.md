@@ -1,6 +1,6 @@
 # Cartessian robot
 
-![](20210930_120841.jpg)  
+![](overwiew.jpg)  
 
 CR is robotic "arm" designed to move a small object from point A to B.
 It can move in all 3 dimensions, at variable speeds.
