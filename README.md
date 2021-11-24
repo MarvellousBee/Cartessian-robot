@@ -1,8 +1,12 @@
 # Cartessian robot
+
+![](20210930_120841.jpg)  
+
 CR is robotic "arm" designed to move a small object from point A to B.
 It can move in all 3 dimensions, at variable speeds.
 3 endstop switches allow it to automatically calibrate, just like many FDM 3D printers.
 
+![](render.png)  
 
 ### Bill of materials:
 
